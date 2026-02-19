@@ -1,9 +1,5 @@
-🚀 Python Freelance Tools
+# Python Freelance Tools
 
-3 production-ready пројекта:
+**CSV Processing | Web Scraping | FastAPI**
 
-1. CSV Cleaner - CLI алат
-2. Web Scraper - BeautifulSoup
-3. FastAPI Backend - API
-
-git clone + pip install -r requirements.txt
+3 production Python projects ready for clients.
